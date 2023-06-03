@@ -6,7 +6,7 @@ public class alpha {
     public static void main(String[] args) {
         System.out.println("my name is meet");
         System.out.println("my name is meet");
-        System.out.println("fuck u bitch");
+        
         
         System.out.println("this is edited inside github");
     
